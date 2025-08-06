@@ -84,18 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-      "huangcang": {
-      "api": "https://hsckzy888.com",
-      "name": "黄色仓库"
-    },
-      "91": {
-      "api": "https://www.9191md.me",
-      "name": "91"
-    },
-      "laosebi": {
-      "api": "https://laosebizy.com",
-      "name": "老色比"
     }
   }
 }
